@@ -1,3 +1,4 @@
 controllers:
+    path: 
     resource: ../src/Controller/
     type: attribute
